@@ -21,7 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/internal/cmdtest"
+	"internal/cmdtest"
+
 	"github.com/ethereum/go-ethereum/internal/reexec"
 )
 
